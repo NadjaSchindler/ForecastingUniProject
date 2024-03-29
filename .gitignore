@@ -1,1 +1,3 @@
+# Ignore .pkl files
+*.pkl
 
